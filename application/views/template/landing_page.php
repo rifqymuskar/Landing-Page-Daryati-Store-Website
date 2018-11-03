@@ -28,7 +28,7 @@
 	    </div>
 	  </nav>
 
-	   <nav class="show-on-small hide-on-med-and-up">
+	   <nav class="show-on-medium-and-down hide-on-large-only">
 		<div class="nav-wrapper">
 	      <ul id="nav-mobile" class="right mobile-1" style="color: #000;">
 	       		<li><a href="" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a></li>
