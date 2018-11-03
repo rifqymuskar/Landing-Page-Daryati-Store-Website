@@ -36,7 +36,7 @@
 					<p>Sajadah</p>
 				</div>
 				<div class="content-2-5">
-
+					<img src="<?=site_url('assets/img/sajadah/1.jpg')?>" class="responsive-img">
 				</div>
 			</div>
 			<div class="col l4 m6 s12">
@@ -66,7 +66,7 @@
 		<div class="content-2-3"></div>
 	</div>
 
-	<div class="container z-depth-3" style="position: relative; top: 5%;">
+	<div class="container z-depth-3" style="position: relative; top: 5%; margin-top: 5%;">
 		<div class="content-6-4">
 			<div class="circle"></div>
 			<div class="circle"></div>
@@ -74,20 +74,20 @@
 		</div>
 		<div class="row content-6-2" style="background-color: #000;">
 			<div class="col s6 content-6-3" style="padding: 0px!important; background-color: #000;">
-				<img src="<?=site_url("assets/img/content6.png")?>" class="responsive-img" >
+				<img src="<?=site_url("assets/img/sajadah/5.jpg")?>" class="responsive-img" >
 			</div>
 			<div class="col s6 content-6-1">
 				<div class="col s6">
-					<img src="<?=site_url("assets/img/content6.png")?>" class="responsive-img">
+					<img src="<?=site_url("assets/img/sajadah/6.jpg")?>" class="responsive-img">
 				</div>
 				<div class="col s6">
-					<img src="<?=site_url("assets/img/content6.png")?>" class="responsive-img">
+					<img src="<?=site_url("assets/img/sajadah/7.jpg")?>" class="responsive-img">
 				</div>
 				<div class="col s6">
-					<img src="<?=site_url("assets/img/content6.png")?>" class="responsive-img">
+					<img src="<?=site_url("assets/img/sajadah/8.jpg")?>" class="responsive-img">
 				</div>
 				<div class="col s6">
-					<img src="<?=site_url("assets/img/content6.png")?>" class="responsive-img">
+					<img src="<?=site_url("assets/img/sajadah/3.jpg")?>" class="responsive-img">
 				</div>
 			</div>
 		</div>
@@ -106,16 +106,16 @@
 				<div class="content-3-1">
 					<div class="row" style="margin-bottom: 0px;">
 						<div class="col l6 s6 content-3-2">
-							<img src="<?=site_url("assets/img/1.png")?>" class="responsive-img z-depth-3">
+							<img src="<?=site_url("assets/img/sajadah/3.jpg")?>" class="responsive-img z-depth-3">
 						</div>
 						<div class="col l6 s6 content-3-2">
-							<img src="<?=site_url("assets/img/1.png")?>" class="responsive-img z-depth-3">
+							<img src="<?=site_url("assets/img/sajadah/2.jpg")?>" class="responsive-img z-depth-3">
 						</div>
 						<div class="col l6 s6 content-3-2">
-							<img src="<?=site_url("assets/img/1.png")?>" class="responsive-img z-depth-3">
+							<img src="<?=site_url("assets/img/sajadah/4.jpg")?>" class="responsive-img z-depth-3">
 						</div>
 						<div class="col l6 s6 content-3-2">
-							<img src="<?=site_url("assets/img/1.png")?>" class="responsive-img z-depth-3">
+							<img src="<?=site_url("assets/img/sajadah/1.jpg")?>" class="responsive-img z-depth-3">
 						</div>
 					</div>
 				</div>
