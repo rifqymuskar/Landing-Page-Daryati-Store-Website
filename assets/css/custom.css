@@ -426,6 +426,12 @@ button{
 	.content-4-3{
 		margin-top: 5%;
 	}
+	.content-6-3{
+		height: 300px;
+	}
+	.content-6-1 > div > img{
+		height: 125px;
+	}
 
 }
 
@@ -450,6 +456,12 @@ button{
 	}
 	.content-2-4{
 		margin-top: 5%;
+	}
+	.content-6-3{
+		height: 400px;
+	}
+	.content-6-1 > div > img{
+		height: 170px;
 	}
 }
 
